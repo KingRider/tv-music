@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-caching=5000
 #EXTVLCOPT:network-caching=5000
 #EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:0,K-Pop Television - https://kpoptv.live/
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
