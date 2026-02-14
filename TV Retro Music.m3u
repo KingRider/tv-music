@@ -3,8 +3,7 @@
 #EXTVLCOPT:http-caching=5000
 #EXTVLCOPT:network-caching=5000
 #EXT-X-PLAYLIST-TYPE:VOD
-
-#EXTINF:0,Retro Music Television - https://retromusic.cz/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/876px-Retro_Music_TV_logo.png",Retro Music Television - https://retromusic.cz/
 http://stream.mediawork.cz:80/retrotv/retrotvHQ2/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
